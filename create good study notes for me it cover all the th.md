@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# create good study notes for me it cover all the thing for the topic and the explain should contain all the nesscery information about the the topic and it should be more and 200 words for each it topic with the usecase of the topic and advatage and disadvantages of the topic it should be capable for answering a 10 marks ques and there should a diagram if needed and at the last to the ppt there are some question you should answer then such that it is a ten marks question will be going unit wise and explain each and every topic in the unit
-
 UNIT 1
 Introduction to Computational Linguistics
 Overview of Computational Linguistics and NLP, Linguistic Components: Phonetics, Morphology, Syntax, Semantics, Pragmatics, Corpus Linguistics and Language Resources, Applications of Computational Linguistics
